@@ -1,6 +1,7 @@
 const { Message, MessageEmbed } = require("discord.js");
 const { checkPermission } = require("../../Base/permission");
 const { Bot } = require("../../Structures/Client");
+const chalk = require("chalk");
 
 module.exports = {
   help: {
@@ -161,7 +162,7 @@ module.exports = {
     } catch (err) {
       console.log(
         chalk.yellowBright(
-          `${err.message} \nOccured in ${err.stack} \n&& in ${message.guild.id} ( ${message.guild.name} )`
+          `${err.stack} | ${message.guild.name} (${message.channel.name})`
         )
       );
     }

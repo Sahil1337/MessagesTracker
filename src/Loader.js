@@ -59,7 +59,7 @@ async function loadCommands(client) {
 
         //looping each aliases
         for (i = 0; i < props.help.aliases.length; i++) {
-          client.aliases.set(props.help.aliases[i], props);
+          client.aliases.set(props.help.aliases[i], props.help.name);
         }
       });
     });

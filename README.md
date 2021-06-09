@@ -18,8 +18,8 @@
 <strong> 📚 Libraries </strong>
 
 <a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/discord.js-stable-blue.svg?noavatar=true?style=plastic&maxAge=300">
-<a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/mongoose-12.5.3-blue?noavatar=true?style=plastic&maxAge=300">
-<a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/chalk-4.1.1-blue?noavatar=true?style=plastic&maxAge=300">
+<a href ="https://mongoosejs.com/"><img src = "https://img.shields.io/badge/mongoose-12.5.3-blue?noavatar=true?style=plastic&maxAge=300">
+<a href ="https://www.npmjs.com/package/chalk"><img src = "https://img.shields.io/badge/chalk-4.1.1-blue?noavatar=true?style=plastic&maxAge=300">
 </a>
 
 <br>
