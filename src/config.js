@@ -29,5 +29,5 @@ module.exports = {
   mongoDB: "",
 
   //repo url
-  src: "https://github.com/HELLMAKER0001/MessagesTracker",
+  src: "https://github.com/Sahil1337/MessagesTracker",
 };
