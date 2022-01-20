@@ -78,7 +78,7 @@ module.exports = {
               `Hey ${
                 message.author.tag
               }, myself a advance messages tracking bot made by ${
-                (await client.users.fetch("533955330829451275")).tag
+                (await client.users.fetch("898037958995738624")).tag
               }. I have automated leaderboards , customisable commands , and very easy setup. You can get my source code from [here](${
                 config.src
               })`
