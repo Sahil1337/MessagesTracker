@@ -17,7 +17,7 @@ module.exports = {
     Stuck: "",
     Arrow: "",
     Dot: "",
-    footer: "Made by SahiL#1337",
+    footer: "Made by SahiL#2244",
   },
 
   /* Leaderboard */
